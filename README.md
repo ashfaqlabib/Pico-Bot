@@ -1,5 +1,9 @@
 # Pico Bot — ESP32-S3 Emotion Robot
 
+<p align="center">
+  <img src="images/pico-bot-main.jpg" width="600">
+</p>
+
 A small interactive robot built with **ESP32-S3**, **SH1106 OLED**, **TTP223 touch sensor**, and a **buzzer**.
 
 Pico Bot can express multiple emotions using animated robot-style eyes, respond to touch, play emotion-based sounds, display Banglish messages, show Bangladesh time in Watch Mode, and automatically go to sleep when left inactive.
