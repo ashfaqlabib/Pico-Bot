@@ -90,13 +90,13 @@ OLED I2C Address:
 | ------ | -------- |
 | VCC    | 3.3V     |
 | GND    | GND      |
-| SIG    | GPIO 4   |
+| SIG    | GPIO 10   |
 
 ### Buzzer
 
 | Buzzer | ESP32-S3 |
 | ------ | -------- |
-| +      | GPIO 5   |
+| +      | GPIO 11   |
 | -      | GND      |
 
 ---
